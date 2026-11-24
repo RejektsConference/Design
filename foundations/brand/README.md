@@ -115,3 +115,27 @@ Text should meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) A
 
 - Give every image and social graphic alt text.
 - Don't rely on colour alone to carry meaning.
+
+## 5. Look and feel
+
+- The big X, used as a frame for photos
+- Small red x marks as bullets and accents
+- A grid of light grey squares in the background
+- Solid red bars with white monospace text for places and dates
+- Big, bold white headlines with a red shadow
+- Big hashtags, like `#REJEKTS2027`
+
+## 6. Files and formats
+
+| Format | Use it for |
+| --- | --- |
+| SVG | Websites and anything that scales |
+| PNG | Slides, documents, social posts (transparent background, 2000 px) |
+| PDF | Printers, and opening in almost any app |
+| AI | Editing in Illustrator |
+
+## 7. Sponsors and partners
+
+- Show sponsor logos in their own colours. Never recolour them to match Rejekts.
+- Give every logo in the same tier the same visual size and the same clear space.
+- When the Rejekts logo appears with sponsor logos, keep it separate and give it its own clear space.
