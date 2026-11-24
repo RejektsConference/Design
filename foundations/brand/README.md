@@ -89,3 +89,29 @@ Below these sizes, use the icon instead.
 - Move, resize or remove parts of it
 - Put the colour version on red or on busy photos (use reverse or white instead)
 - Recreate the wordmark in a font
+
+## 3. Typography
+
+| Typeface | Use it for | Where to get it | If you can't install it |
+| --- | --- | --- | --- |
+| **Source Code Pro** | Headlines, the Rejekts look, short body text | Free and open (SIL Open Font License) on [Google Fonts](https://fonts.google.com/specimen/Source+Code+Pro); built into Google Docs and Slides via "More fonts" | Consolas, or Courier New |
+| **Source Sans 3** | Longer reading text, where monospace gets tiring | Free and open on [Google Fonts](https://fonts.google.com/specimen/Source+Sans+3) | Arial |
+
+- **Headlines:** Source Code Pro, Bold or Black, often in capitals
+- **Body:** Source Code Pro Regular for short text, Source Sans 3 Regular for long text
+- Myriad Pro (used in older prospectuses) is a paid Adobe font, so it's being phased out. Use only open fonts so anyone can open our files.
+
+## 4. Accessibility
+
+Text should meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) AA contrast standard: 4.5:1 for normal text and 3:1 for large text (about 24 px, or 19 px bold).
+
+| Combination | Contrast | Use for |
+| --- | --- | --- |
+| Black on white | 16.9:1 | Any text |
+| Red on white, or white on red | 4.9:1 | Any text |
+| Red on grid grey | 4.4:1 | Large text only |
+| Red on black | 3.5:1 | Large text only |
+| Mid grey on white | 1.7:1 | Never text; borders and lines only |
+
+- Give every image and social graphic alt text.
+- Don't rely on colour alone to carry meaning.
