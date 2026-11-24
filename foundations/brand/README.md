@@ -42,3 +42,50 @@ The same values apply to **every Rejekts event, in every country**. Use HEX or R
 3. SVG and PNG exports come out as #E30613 and #1D1D1B on their own.
 
 Working with North American colour settings? Your exports will show the red as #ED1C24. Change it to #E30613 in your screen files, or switch Color Settings to Europe General Purpose.
+
+## 2. Logo
+
+The Rejekts logo is the red "rejected" X with three dots inside, next to the wordmark **Cloud_Native Rejekts**. Always use the supplied files; never retype the wordmark in a font.
+
+### Versions
+
+| Version | Use it on |
+| --- | --- |
+| **Colour** | White and light backgrounds. The default. |
+| **Reverse** | Black and dark backgrounds |
+| **Black** (one colour) | Single-colour print on light materials, such as lanyards and stamps |
+| **White** (one colour) | Single-colour print on dark materials, and over photos |
+
+### Layouts
+
+| Layout | Use it when |
+| --- | --- |
+| **Horizontal** | There's more width than height. The default. |
+| **Stacked** | The space is closer to square, such as avatars, badges and stickers |
+| **Icon** (the X on its own, coming 2027) | Very small spaces: favicons, app icons, social avatars |
+
+### Event tag
+
+Each event adds a short red tag after the wordmark, such as **[EU'27]**, set in Source Code Pro. One plain Rejekts logo without a tag is coming with the foundations work.
+
+### Clear space
+
+Leave empty space around the logo at least as tall as the capital **R** in "Rejekts", on every side. No text, images or edges inside that space.
+
+### Minimum size
+
+| Layout | Print | Screen |
+| --- | --- | --- |
+| Horizontal | 30 mm wide | 150 px wide |
+| Stacked | 25 mm wide | 120 px wide |
+
+Below these sizes, use the icon instead.
+
+### Don't
+
+- Stretch, squash or rotate the logo
+- Change its colours or use colours outside the palette
+- Add shadows, outlines, glows or other effects
+- Move, resize or remove parts of it
+- Put the colour version on red or on busy photos (use reverse or white instead)
+- Recreate the wordmark in a font
