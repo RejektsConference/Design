@@ -13,9 +13,10 @@ Lowercase English city names, hyphens, no accents (`sao-paulo`, not `São Paulo`
 2027-eu-barcelona/
 ├── README.md        Dates, city, status, what's in the folder
 ├── logos/
-│   ├── horizontal/  SVG, PNG, PDF
-│   ├── stacked/     SVG, PNG, PDF
-│   └── source/      Illustrator (.ai) files
+│   ├── svg/         Every logo as SVG
+│   ├── png/         Every logo as PNG
+│   ├── pdf/         Every logo as PDF
+│   └── ai/          Every logo as an Illustrator file
 ├── social/          Save the date, CFP, sponsor and speaker posts
 ├── web/             Website hero, share image
 ├── print/           Badges, lanyards, banners, signage
