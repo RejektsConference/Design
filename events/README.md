@@ -52,7 +52,7 @@ Spell `color` the US way in file names, to match CNCF and most tools.
 - **reverse:** colour, for dark backgrounds
 - **black / white:** one colour, for single-colour print (lanyards, shirts) and busy photos
 
-Each one as **SVG**, **PNG** and **PDF** in its layout folder, plus the **.ai** source in `logos/source/`.
+Each one as **SVG**, **PNG**, **PDF** and **AI**, sorted into one folder per format (`logos/svg/`, `logos/png/`, `logos/pdf/`, `logos/ai/`) so they're easy to browse. List them with download links in the event's README.
 
 ### Export settings (Illustrator)
 
