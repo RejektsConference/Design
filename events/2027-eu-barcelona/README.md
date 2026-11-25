@@ -1,32 +1,42 @@
-# Cloud Native Rejekts EU 2027, Barcelona
+# Digital
 
-**Date:** Saturday 13 and Sunday 14 March 2027
-**Announce:** Tuesday 1 December 2026
-**Status:** In progress
+Everything on a screen after the launch. The launch kit has [its own folder](../launch/).
 
-Rejekts started in Barcelona in 2019, so this one is a homecoming.
+**Work in progress:** [Google Drive](https://drive.google.com/drive/folders/10UNcSu6fb4xXvHCOuWO0ZrPMFtKL0Q9a). Only finished, signed-off files go here.
 
-## Logos
+## Rules for every digital file
 
-<img src="logos/png/rejekts-2027-eu-barcelona-logo-horizontal-color.png" alt="Rejekts EU 2027 Barcelona logo, horizontal, colour" width="480">
+- **Colour:** sRGB. Rejekts Red is #E30613.
+- **Text:** easy to read, with good contrast (see accessibility in the [brand guidelines](../../../foundations/brand/))
+- **Editable file:** the AI file goes in a `source/` folder next to the finals
+- **Big files:** GitHub's upload limit is 25 MB per file, so video stays in Google Drive, with a note in the folder saying where
 
-| Logo | Use it on | SVG | PNG | PDF |
-| --- | --- | --- | --- | --- |
-| Horizontal, colour | Light backgrounds | [SVG](logos/svg/rejekts-2027-eu-barcelona-logo-horizontal-color.svg) | [PNG](logos/png/rejekts-2027-eu-barcelona-logo-horizontal-color.png) | [PDF](logos/pdf/rejekts-2027-eu-barcelona-logo-horizontal-color.pdf) |
-| Horizontal, reverse | Dark backgrounds | [SVG](logos/svg/rejekts-2027-eu-barcelona-logo-horizontal-reverse.svg) | [PNG](logos/png/rejekts-2027-eu-barcelona-logo-horizontal-reverse.png) | [PDF](logos/pdf/rejekts-2027-eu-barcelona-logo-horizontal-reverse.pdf) |
-| Stacked, colour | Light backgrounds | [SVG](logos/svg/rejekts-2027-eu-barcelona-logo-stacked-color.svg) | [PNG](logos/png/rejekts-2027-eu-barcelona-logo-stacked-color.png) | [PDF](logos/pdf/rejekts-2027-eu-barcelona-logo-stacked-color.pdf) |
-| Stacked, reverse | Dark backgrounds | [SVG](logos/svg/rejekts-2027-eu-barcelona-logo-stacked-reverse.svg) | [PNG](logos/png/rejekts-2027-eu-barcelona-logo-stacked-reverse.png) | [PDF](logos/pdf/rejekts-2027-eu-barcelona-logo-stacked-reverse.pdf) |
+## social
 
-- **SVG** for websites, **PNG** for slides, documents and social posts (2000 px, transparent), **PDF** for printers.
-- Illustrator files are in [logos/ai](logos/ai).
-- Black and white one-colour versions are coming.
+Posts after the launch: call for speakers, speaker announcements and reminders. Use the same post sizes as the [launch kit](../launch/). Sponsor announcements go in [sponsors](../sponsors/).
 
-## Coming first
+Name like `rejekts-<year>-<region>-<city>-cfp-post-1080x1350.png`.
 
-- [x] Barcelona logo: colour and reverse, horizontal and stacked
-- [ ] Barcelona logo: black and white one-colour versions
-- [ ] Barcelona theme: colours, fonts, pattern
-- [ ] Save the date posts and social banners, for the announcement on 1 December
-- [ ] Call for speakers, sponsors and volunteers posts, ready for the CFP on 7 December
+## website
 
-Speaker graphics, swag, print and video follow in the new year.
+- **Website hero:** the size the website needs, confirmed by the organiser team
+- **Share image** (shows when someone posts a link to the site): 1200 x 630 px
+- **Editable file:** Illustrator (AI), or a Figma link added to the folder
+
+## av
+
+Graphics the AV team shows on the livestream and recordings:
+
+- Opening and closing slides
+- Sponsor thank-you slides
+- Break slides
+- Contact and socials slide
+- Speaker title cards and name banners (lower thirds)
+
+16:9 (1920 x 1080). Slides as PDF plus PowerPoint (PPTX) or a Google Slides link. Overlays as PNG with a transparent background. Anything animated as MOV (ProRes 4444, which keeps the transparency), in Google Drive.
+
+## signage
+
+Digital signage on the venue's own screens, playing on a loop: the schedule, which talk is in which room, sponsors, Wi-Fi and the code of conduct.
+
+The screen size and format come from the venue, through the organiser team. Most are 1920 x 1080 landscape or 1080 x 1920 portrait. Deliver as PNG slides or an MP4 loop, with video files in Google Drive.
