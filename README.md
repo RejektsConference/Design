@@ -13,7 +13,8 @@ Everything is public on purpose, so any organiser, designer, speaker or sponsor 
 
 - Attendee data, such as badge name lists
 - Sponsor contracts, pricing, quotes or invoices
-- Sponsors or speakers who haven't been announced yet
+- Speakers who haven't been announced yet
+- Sponsors whose contracts aren't signed yet
 - Fonts or images whose licence doesn't allow sharing
 
 ## Licence
